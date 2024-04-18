@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.formTitle{
+  padding: 10px;
+}
+
+label{
+  margin: 15px 0 5px 0 !important;
+}
+
+#btnSubmit {
+  margin-top: 20px;
+}
+.btn {
+  margin-right: 20px;
+}
+
+span{
+  display: block;
+}
